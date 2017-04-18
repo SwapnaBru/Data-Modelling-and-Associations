@@ -3,10 +3,10 @@ class WelcomeController < ApplicationController
   end
 
   def create
-    render plain: params [:article].inspect
+    # render plain: params [:article].inspect
   end
 
- 
+
   #
   # def edit
   #
