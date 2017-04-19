@@ -1,0 +1,2 @@
+class HostEvent < ApplicationRecord
+end
